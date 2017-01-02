@@ -1,0 +1,6 @@
+c:\users\nikola\documents\visual studio 2015\Projects\HoHoHo\HoHoHo\bin\Debug\HoHoHo.exe.config
+c:\users\nikola\documents\visual studio 2015\Projects\HoHoHo\HoHoHo\bin\Debug\HoHoHo.exe
+c:\users\nikola\documents\visual studio 2015\Projects\HoHoHo\HoHoHo\bin\Debug\HoHoHo.pdb
+c:\users\nikola\documents\visual studio 2015\Projects\HoHoHo\HoHoHo\obj\Debug\HoHoHo.csprojResolveAssemblyReference.cache
+c:\users\nikola\documents\visual studio 2015\Projects\HoHoHo\HoHoHo\obj\Debug\HoHoHo.exe
+c:\users\nikola\documents\visual studio 2015\Projects\HoHoHo\HoHoHo\obj\Debug\HoHoHo.pdb
